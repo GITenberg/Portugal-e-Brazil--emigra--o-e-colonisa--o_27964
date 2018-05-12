@@ -1,0 +1,29 @@
+_repo: Portugal-e-Brazil--emigra--o-e-colonisa--o_27964
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pércheiro, D. A. Gomes
+    aliases:
+    - Percheiro, D. A. Gomes
+    - Pércheiro, Domingos Antonio Gomes
+    gutenberg_agent_id: '33045'
+    url: http://www.gutenberg.org/2009/agents/33045
+description: ''
+gutenberg_issued: '2009-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27964'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brazil -- Emigration and immigration'
+- !lcsh 'Portuguese -- Brazil'
+- !lcsh 'Portugal -- Emigration and immigration'
+- !lcc 'F2501'
+title: 'Portugal e Brazil: emigração e colonisação'
+url: http://www.gutenberg.org/ebooks/27964
